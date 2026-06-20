@@ -1,48 +1,55 @@
 # Codec Technologies Internship Tasks
 
-## Overview
+## Android Application Development Internship
 
-This repository contains the tasks, assignments, and projects completed during my internship at Codec Technologies. The purpose of this repository is to document my learning journey, showcase practical implementations, and demonstrate the skills acquired throughout the internship.
+This repository contains the projects and assignments completed during my internship as an **Android Application Developer Intern** at Codec Technologies. The internship provided hands-on experience in mobile application development, UI design, state management, data handling, and implementing real-world application features.
 
-## Objectives
+## Projects
 
-* Apply theoretical concepts to real-world scenarios.
-* Gain hands-on experience in software development.
-* Improve problem-solving and coding skills.
-* Learn industry-standard development practices.
-* Build projects and complete assigned technical tasks.
+### 1. Health Tracker App
+
+A mobile application designed to help users monitor and manage their health-related activities.
+
+**Key Features:**
+
+* Track daily health metrics
+* User-friendly interface
+* Activity and progress monitoring
+* Organized health data management
+
+### 2. Smart Expense Tracker App
+
+A personal finance management application that helps users track and organize their expenses efficiently.
+
+**Key Features:**
+
+* Add and manage income and expenses
+* Expense categorization
+* Financial tracking and analysis
+* Simple and intuitive user experience
+
+## Skills Gained
+
+* Android Application Development
+* Mobile UI/UX Design
+* Java/Kotlin Programming
+* Application Architecture
+* Data Management
+* Debugging and Testing
+* Version Control using Git & GitHub
 
 ## Repository Structure
 
-Each folder in this repository represents a separate task, assignment, or project completed during the internship. The contents may include:
+Each project is organized into separate folders containing:
 
-* Source code
+* Source Code
+* Project Assets
 * Documentation
-* Project reports
-* Assets and resources
-* Configuration files
+* Configuration Files
 
-## Technologies Used
+## Internship Outcomes
 
-Depending on the task requirements, the repository may include work involving:
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Node.js
-* Git & GitHub
-* Other web development tools and technologies
-
-## Learning Outcomes
-
-Throughout this internship, I have gained experience in:
-
-* Software development workflows
-* Version control using Git and GitHub
-* Writing clean and maintainable code
-* Debugging and problem-solving
-* Project planning and implementation
+During this internship, I enhanced my understanding of Android development by building practical applications focused on health management and personal finance. These projects strengthened my problem-solving abilities and provided valuable experience in developing user-centric mobile solutions.
 
 ## Author
 
@@ -50,4 +57,5 @@ Throughout this internship, I have gained experience in:
 
 ## Acknowledgement
 
-I would like to thank Codec Technologies for providing this internship opportunity and helping me gain valuable industry exposure and practical experience.
+I sincerely thank Codec Technologies for providing me with the opportunity to work as an Android Application Developer Intern and gain valuable industry experience through practical project development.
+I sincerely thank Codec Technologies for providing me with the opportunity to work as an Android Application Developer Intern and gain valuable industry experience through practical project development.
